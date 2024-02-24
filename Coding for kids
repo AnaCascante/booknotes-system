@@ -36,6 +36,25 @@ User interface -
 
 why is call bug? because in the early days they found a real bug in the computer's electronic circuitry! 🪳
 
+when coding with blocks it is not possible to make syntax mistakes - the code is prewritten- therefore there is less possibilites for bugs here, it may occur that the code is not correctly placed/declare and this give an unexpected outcome. 
+App Lab will provide description of the found error- yellow diamond - misspelling or number error. Red square - that could be an error in a variable or a function. Using javascript instead of blocks may increase the possibility of syntax errors. 
+
+One way for debugging is commenting out sections of the code. Isolating the wrong code. You can also make comments in the code, to make it easy to understand. 
+
+#part 2 Sounds, color, random surprises 
+
+#chapter 4 Orchestra 
+
+Creating an orchestra in scratch. 
+Design: which instruments and musicians to have, type of music. 
+Event-driven programming can be started and ended by different triggers (user, button, sound,..) 
+
+  -choose instruments, musicians and start coding!  
+
+#chapter 5 foley sound generator 
+
+use code.org to create this project. 
+
 
 
 
