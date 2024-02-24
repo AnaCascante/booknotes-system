@@ -1,7 +1,41 @@
-chapter 1. 
+# chapter 1. 
 
 Coding creates comprehensible layouts/programs that let humans communicate with computers. There are many developted languages in coding. In this book you will learn Scratch and JavaScript. 
 
 Scratch builds code in blocks/tiles. Scratch is a kids code language and a platform that has its own integrated development environment (IDE). Its own coding platform.  You can switch to App Lab and MakeCode. 
 
-A computer program use commands. Commands are organized and has an order. 
+A computer program use commands. Commands are organized and has an order. A chunk of code, small piece of code that performs a process, is called an algorithm. 
+Algorithms connects throught sequences, selection or repetition. 
+  - Sequence: logical order of the code. 
+  - Selection: if--- then---, if-- else. Choosing the path. 
+  - Repetition: loop- runs the same comand several times. 
+
+Before developing a program with code its wise to take some time doing a good design. Some people like to build flowcharts (cheatsheets) writing the symbol and the meaning of it. 
+
+(insert table) 
+
+Planning  a program with flowchart -  start- user types "x" to search- computer searches in database- if found- get the data and end. else (not found) display data not found-  
+
+Pseudocode do not need semicolons or brackets. 
+
+When coding: use code snippers- great way to learn. Think top-down. Follow a structure: Mapping overall plan- design (as much detail as possible) and then start coding. Practicing will increase knowleadge, do not expect code to work at once, keep trying. Keep playing and being creative, it is an important part of creating a program. Be prepare for frustration and bugs! Debugging is a crutial skill when coding, and managing your self thought this process is key for success! 
+
+The coding world has no limits! Your imagination can create wonders. 
+
+# Chapter 2
+
+create an account in Scratch.mit.edu and start coding! 
+  - create a new project- name your project. You will find usefull turorials on the website. 
+create an account in code.org and start coding! 
+create and account in [makecode-microbit](https://makecode.microbit.org/) start exploring!
+
+User interface - 
+ Images and sounds to design your program. 
+
+#Chapter 3 When things og wrong 
+
+why is call bug? because in the early days they found a real bug in the computer's electronic circuitry! 🪳
+
+
+
+
